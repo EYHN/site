@@ -1,3 +1,10 @@
+- name: hexo-tag-cplayer
+  description: A hexo plugin for cPlayer.
+  link: https://github.com/EYHN/hexo-tag-cplayer
+  tags:
+    - cplayer
+    - music
+    - audio
 - name: hexo-generator-index-plus
   description: Index generator plus for Hexo, including new order attributes like top and updateDate.
   link: https://github.com/YuyingWu/hexo-generator-index-plus
